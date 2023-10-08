@@ -1,39 +1,14 @@
-# Código Fonte
+# Sobre o código
 
-Mantenha neste diretório todo o código fonte do projeto.
+//Código criado e estruturado por: Kaiky França da Silva
 
-Se necessário, descreva neste arquivo aspectos relevantes da estrutura de diretórios criada para organização do código.
+O objetivo desse codigo é ser uma pratica com FrontEnd em HTML, CSS e JavaScript
 
-Uma sugestão da estrutura de diretórios para o projeto é a seguinte:
+<h2>O Chat</h2>
 
-```plaintext
-codigo/  (essa pasta aqui)
-│
-├── index.html
-│
-├── assets/
-│   ├── css/
-│   │   ├── styles.css
-│   │   └── (outros arquivos .css)
-│   │
-│   ├── js/
-│   │   ├── main.js
-│   │   └── (outros arquivos .js)
-│   │
-│   ├── images/
-│   │   ├── logo.png
-│   │   └── (outras imagens)
-│   │
-│   └── fonts/
-│       ├── font1.ttf
-│       └── (outras fontes)
-│
-├── pages/
-│   ├── about.html
-│   ├── contact.html
-│   └── (outras páginas)
-│
-└── README.md
-```
+Criei toda sua base utilizando modelos publicos para uma estrutura esteticamente bem feita, ele tem 2 abas sendo elas uma para "Pessoas" e outra para "Bandas" por ser um projeto para outro app futuro.
 
-Utilize a pasta pages para manter um arquivo para cada pessoa por artefato (sprints 2 e 3) e, com isso, isolar as alterações de cada pessoa, facilitando o trabalho de gestão do código.
+Seu funcionamento e o envio de mensagens pelo usuário através de um INPUT e a resposta com frases aleatorias definidas no codigo por um array que o proprio usuario pode definir dentro do JavaScript (pode ser integrado com a API do ChatGPT ou qualquer outra inteligência artificial)
+
+Ele está aberto a melhorias
+Em caso de sugestões meu email: kaikyfrs.comp@gmail.com
